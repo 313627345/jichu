@@ -30,15 +30,15 @@ RecursionError: maximum recursion depth exceeded in comparison </br>
 import sys</br>
 sys.setrecursionlimit(1000000) </br>
 
-# 定义函数 </br>
+# 定义函数(diyi.py) </br>
 def my_abs(x): </br>
     if x >= 0: </br>
         return x </br>
     else: </br>
         return -x </br>
 
-#空函数</br>
-# 你这个语句没有想好怎么写，但是又要让其运行起来 可以使用 pass 让代码先运行起来！</br>
+# 空函数 </br>
+你这个语句没有想好怎么写，但是又要让其运行起来 可以使用 pass 让代码先运行起来！</br>
 if age >= 18:</br>
     pass</br>
 #返回多个值</br>
